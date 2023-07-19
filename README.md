@@ -1,5 +1,8 @@
 # 💫 About Me:
-Vivendo a evolução da tecnologia, fazendo parte dela constantemente e participando do seu crescimento, programador e entusiasta.
+## Olá! Seja bem-vindo(a) ao meu perfil do GitHub! 👋
+
+Sou um entusiasta da tecnologia com uma paixão ardente pela programação. No momento, ocupo o cargo de Gerente de Projetos na Spreed, uma empresa de edição de vídeo inovadora. Por meio da linguagem Python, minha especialidade, busco constantemente aprimorar processos e alcançar resultados excepcionais. Aqui, você encontrará uma variedade de projetos que refletem meu interesse em aprender e evoluir. Estou sempre aberto a oportunidades de colaboração e adoro trabalhar em equipe para resolver desafios complexos. Vamos codar e inovar juntos! 💻🌟
+
 
 
 ## 🌐 Socials:

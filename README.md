@@ -23,12 +23,4 @@ Por meio da linguagem Python, minha especialidade, busco constantemente aprimora
 [![](https://visitcount.itsvg.in/api?id=jacksonamatti&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{https://github.com/jacksonamatti}}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

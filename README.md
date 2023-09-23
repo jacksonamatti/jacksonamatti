@@ -1,8 +1,7 @@
 # 💫 About Me:
-## Olá! Seja bem-vindo(a) ao meu perfil do GitHub! 👋
-
-Sou um entusiasta da tecnologia com uma paixão ardente pela programação.
-Por meio da linguagem Ruby e com o Framework Rails, minha especialidade, busco constantemente aprimorar processos e alcançar resultados excepcionais.Com uma inclinação a automação e analise de dados. Aqui, você encontrará uma variedade de projetos que refletem meu interesse em aprender e evoluir. Estou sempre aberto a oportunidades de colaboração e adoro trabalhar em equipe para resolver desafios complexos. Vamos codar e inovar juntos! 💻🌟
+## 
+Hello! Welcome to my GitHub profile! 👋
+I'm a technology enthusiast with a burning passion for programming. Using the Ruby language and the Rails framework, which is my specialty, I constantly strive to improve processes and achieve exceptional results. I have a keen interest in automation and data analysis. Here, you'll find a variety of projects that reflect my eagerness to learn and grow. I'm always open to collaboration opportunities and enjoy working in teams to tackle complex challenges. Let's code and innovate together! 💻🌟
 
 <div style="display: inline_block"><br>
     <img align="center"alt="RafaPython"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">

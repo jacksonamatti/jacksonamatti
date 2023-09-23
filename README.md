@@ -1,6 +1,5 @@
 # 💫 About Me:
-## 
-Hello! Welcome to my GitHub profile! 👋
+## Hello! Welcome to my GitHub profile! 👋
 I'm a technology enthusiast with a burning passion for programming. Using the Ruby language and the Rails framework, which is my specialty, I constantly strive to improve processes and achieve exceptional results. I have a keen interest in automation and data analysis. Here, you'll find a variety of projects that reflect my eagerness to learn and grow. I'm always open to collaboration opportunities and enjoy working in teams to tackle complex challenges. Let's code and innovate together! 💻🌟
 
 <div style="display: inline_block"><br>
